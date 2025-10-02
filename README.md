@@ -1,11 +1,18 @@
 # Bitacora
 
 ### Ideas
--Arma 
+-Arma
+
 -Núcleo de poder 
+
 -Casa (magica)
+
 -Orgáno mecanico
--Herramienta especial 
--Robot 
+
+-Herramienta especial
+
+-Robot
+
 -Transporte
+
 -Control
