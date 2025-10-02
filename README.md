@@ -1,20 +1,14 @@
 # Bitacora
 
-### Ideas
--Arma
+## Ideas
+- Arma
+- Nucleo de poder
+- Casa (Magica)
+- Herramienta especial
+- Robot
+- Transporte
 
--Núcleo de poder 
-
--Casa (magica)
-
--Orgáno mecanico
-
--Herramienta especial
-
--Robot
-
--Transporte
-
--Control
-
--Instrumento
+### Top 3
+- Arma
+- Robot
+- Organo
