@@ -1,3 +1,4 @@
+
 # Bitacora
 
 ## Ideas
