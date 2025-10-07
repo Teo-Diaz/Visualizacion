@@ -10,12 +10,14 @@
 - Transporte
 
 ### Top 3
-- Arma: Tenemos la intencion de de realizar un arma basada en algun mineral y sin municion ni polvora convencional, como referencias de ellos tenemos las armas de halo, las cuales funcionan con cristales que explotan con el tiempo 
-
+- Arma: Tenemos la intencion de de realizar un arma basada en algun mineral y sin municion ni polvora convencional, como referencias de ellos tenemos las armas de halo, las cuales funcionan con cristales que explotan con el tiempo. en la simulacion se utilizarian sus disparos para dar las estadisticas y analisis de datos como potencia, distancia, etc. Descartado por el complejo acceso a informacion importante ya que al estar relacionado con la creacion de armas y explosivos, se limita pr seguridad (terrorismo) 
 ![alt text](image.png)
-- Robot
-- Organo
+- Robot: Un robot de aspecto simple que sirva como compañero y ayudante del hogar, se planeaba para la muestra conectarlo a chatgpt o algun otro tipo de IA para que este pudiera interactuar directamente con el usuario en un programa tipo tamagochi
+![alt text](image-1.png)
+- Organo: Una mejora sintetica de un organo (investigado especificamente el corazon) el cual brindaria no solo un remplazo a un organo defectuoso si no que entrando el campo de la ciencia ficcion, fuera capaz de superarla, para esto se investigo que otras funciones tiene el corazon aparte del bombeo de sangre para hacerlo un poco mas realista. trabajos como la produccion de hormonas, una coneccion directa con el cerebro y la produccion de electricidad fueron algunas de las mas interesantes para trabajar
+![alt text](image-2.png)
 
-
-
-- Ecosistema
+## Idea extra
+- Ecosistema: planteamos la creacion de un planeta el cual tendria su propia fauna/flora y estructura interna, limitada y simple, como ejemplo de ello tomamos el videojuego Outer wilds, el cual posee planetas muy sencillos pero interesantes explotando alguna caracteristica como: un sistema binario en el cual un planeta lanza arena al otro y despues vuelve, una de solo agua donde el unico animal es una medusa y las corrientes lazan las pocas islas hasta el espacio, o un planeta que se rompe porque su luna lanza meteoritos y solo posee capa superficial 
+![alt text](image-3.png)
+![alt text](image-4.png)
