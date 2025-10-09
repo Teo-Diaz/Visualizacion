@@ -47,4 +47,4 @@ Titulos:
 - La especie vegetal que habita el planeta, como se adapta a la vida en el planeta, su interaccion con la especie animal y su participacion en el ciclo dia y noche 
 
 Storyboard
-![alt text](image-5.png)
+![alt text](image-5.jpg)
