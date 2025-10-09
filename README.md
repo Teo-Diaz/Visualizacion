@@ -17,7 +17,10 @@
 - Organo: Una mejora sintetica de un organo (investigado especificamente el corazon) el cual brindaria no solo un remplazo a un organo defectuoso si no que entrando el campo de la ciencia ficcion, fuera capaz de superarla, para esto se investigo que otras funciones tiene el corazon aparte del bombeo de sangre para hacerlo un poco mas realista. trabajos como la produccion de hormonas, una coneccion directa con el cerebro y la produccion de electricidad fueron algunas de las mas interesantes para trabajar
 ![alt text](image-2.png)
 
-## Idea extra
+### Idea extra
 - Ecosistema: planteamos la creacion de un planeta el cual tendria su propia fauna/flora y estructura interna, limitada y simple, como ejemplo de ello tomamos el videojuego Outer wilds, el cual posee planetas muy sencillos pero interesantes explotando alguna caracteristica como: un sistema binario en el cual un planeta lanza arena al otro y despues vuelve, una de solo agua donde el unico animal es una medusa y las corrientes lazan las pocas islas hasta el espacio, o un planeta que se rompe porque su luna lanza meteoritos y solo posee capa superficial 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+
+## Enfoque
+
