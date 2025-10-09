@@ -46,4 +46,5 @@ Titulos:
 - las 2 especies animales que habitan el planeta, como se adaptan a la vida en el planeta y como interactuan entre si
 - La especie vegetal que habita el planeta, como se adapta a la vida en el planeta, su interaccion con la especie animal y su participacion en el ciclo dia y noche 
 
-
+Storyboard
+![alt text](image-5.png)
