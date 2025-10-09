@@ -33,7 +33,7 @@
 # Exploracion de guion
 
 Posibles contenidos:
-
+### Enlace a xMind: https://app.xmind.com/share/joN0zHSg
 Titulos:
 ### Planeta "Nombre"
 ### Singularidad/Fenomeno Fisico
