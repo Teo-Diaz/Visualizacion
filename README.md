@@ -1,5 +1,9 @@
-
 # Bitacora
+### Miembros:
+- Avril Tilano
+- Nicolas Hoyos
+- Mateo Díaz
+- Tomas Mejia
 
 ## Ideas
 - Arma
