@@ -24,22 +24,3 @@
 
 ## Enfoque
 
-- El producto sera realizado bajo el contexto de un planeta artificial el cual esta en venta por su singularidad y fenomenos fisicos unicos 
-
-# Exploracion de guion
-
-Posibles contenidos:
-
-Titulos:
-### Planeta "Nombre"
-### Singularidad/Fenomeno Fisico
- 
- - Explicacion del agujero blanco, los campos magneticos que mantienen la estabilidad del planetay la atmosfera
- - como estan distribuidas las placas magneticas y como se aprovecha la energia del agujero blanco para el funcionamiento del planeta
- ### Geografia
- - distribucion de islas flotantes y puntos de interes
- ### Ecosistema
-- las 2 especies animales que habitan el planeta, como se adaptan a la vida en el planeta y como interactuan entre si
-- La especie vegetal que habita el planeta, como se adapta a la vida en el planeta, su interaccion con la especie animal y su participacion en el ciclo dia y noche 
-
-
