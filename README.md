@@ -58,5 +58,9 @@ Titulos:
   - interfaz de escaner para analizar y ver estadisticas y datos
   - Tipografias con un estilo sencillo pero Sci-Fi
 
-  ### Colores
+  ## Colores
+  ### Planeta
   - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial  
+
+  ### Escaner 
+  - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos 
