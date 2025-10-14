@@ -46,5 +46,17 @@ Titulos:
 - las 2 especies animales que habitan el planeta, como se adaptan a la vida en el planeta y como interactuan entre si
 - La especie vegetal que habita el planeta, como se adapta a la vida en el planeta, su interaccion con la especie animal y su participacion en el ciclo dia y noche 
 
-Storyboard
+# Storyboard
 ![alt text](image-5.jpg)
+
+# MoodBoard
+
+  ![alt text](<Sin título-1-1.png>)
+
+  En el moodboard podemos ver factores importantes de nuestra identidad visual, los puntos principales son
+  - Planetas pequeños y sencillos
+  - interfaz de escaner para analizar y ver estadisticas y datos
+  - Tipografias con un estilo sencillo pero Sci-Fi
+
+  ### Colores
+  - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial  
