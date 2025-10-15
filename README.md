@@ -52,6 +52,8 @@ Titulos:
 # MoodBoard
 
   ![alt text](<Sin título-1-1.png>)
+  <img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/c7c94411-e76f-4a77-b761-b913999a79b2" />
+
 
   En el moodboard podemos ver factores importantes de nuestra identidad visual, los puntos principales son
   - Planetas pequeños y sencillos
@@ -63,4 +65,20 @@ Titulos:
   - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial  
 
   ### Escaner 
-  - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos 
+  - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos
+    
+### Tipografías 
+
+Titulo 
+Audiowide - Más decorativa, con curvas y un estilo tecnológico.
+
+<img width="645" height="733" alt="image" src="https://github.com/user-attachments/assets/f30f173d-26bc-4725-b0c9-61fea3f4a0e7" />
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/1e82c3f1-ab18-406e-91c1-f370fa0a82c1" />
+
+Contenido 
+
+Exo 2- Simple, pero manteniendo ese aire tecnológico.
+
+
+<img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/5152a2be-cdc3-4b2a-a400-0411fdb796e2" />
+
