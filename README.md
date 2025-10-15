@@ -53,6 +53,7 @@ Titulos:
 
   ![alt text](<Sin título-1-1.png>)
   <img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/c7c94411-e76f-4a77-b761-b913999a79b2" />
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/1e82c3f1-ab18-406e-91c1-f370fa0a82c1" />
 
 
   En el moodboard podemos ver factores importantes de nuestra identidad visual, los puntos principales son
@@ -61,6 +62,10 @@ Titulos:
   - Tipografias con un estilo sencillo pero Sci-Fi
 
   ## Colores
+
+  <img width="398" height="458" alt="image" src="https://github.com/user-attachments/assets/5442445f-18b3-47e6-b5b8-eb9823c04117" />
+<img width="736" height="883" alt="image" src="https://github.com/user-attachments/assets/15d77eb2-76b5-48ea-8c63-6451d362de2e" />
+
   ### Planeta
   - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial  
 
@@ -73,7 +78,9 @@ Titulo
 Audiowide - Más decorativa, con curvas y un estilo tecnológico.
 
 <img width="645" height="733" alt="image" src="https://github.com/user-attachments/assets/f30f173d-26bc-4725-b0c9-61fea3f4a0e7" />
-<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/1e82c3f1-ab18-406e-91c1-f370fa0a82c1" />
+
+
+<img width="1249" height="281" alt="image" src="https://github.com/user-attachments/assets/cc2dea21-e72b-4028-8b4d-91d0ffe176b4" />
 
 Contenido 
 
@@ -81,4 +88,7 @@ Exo 2- Simple, pero manteniendo ese aire tecnológico.
 
 
 <img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/5152a2be-cdc3-4b2a-a400-0411fdb796e2" />
+
+
+<img width="878" height="759" alt="image" src="https://github.com/user-attachments/assets/c43ac599-fb05-4d8e-8872-f8c4e9d27f95" />
 
