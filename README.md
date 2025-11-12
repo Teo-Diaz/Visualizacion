@@ -69,7 +69,7 @@ https://www.figma.com/design/kw8m9XeAUSw5EbSOKcvJbr/Interfaz?node-id=0-1&t=QKsRX
 
 # Desarrollo
 
-## Planeta
+# Planeta
 
 tomando las referencias mas cercanas a nuestro planteamento inicial, realizaremos un planeta segmentado en distintas islas con un nucleo expuesto
 
@@ -80,11 +80,11 @@ tomando las referencias mas cercanas a nuestro planteamento inicial, realizaremo
 
 ![alt text](image-6.png)
 
-## Fauna y Flora
+# Fauna y Flora
 
 quisimos que en el estilo visual, por su nucleo, predominen tanto en su flora como fauna los colores morado/lila
 
-### Animal 1 (Rokh Glider)
+## Animal 1 (Rokh Glider)
 
 el primer animal diseñado fue una mantaraya a la cual decidimos darle caracteristicas similares a las medusas para que concordara de mejor forma con el nucleo y fuera mas actrtiva a la vista 
 
@@ -95,7 +95,7 @@ el primer animal diseñado fue una mantaraya a la cual decidimos darle caracteri
 
 ![alt text](prueba-1.png)
 
-### Animal 2 (Téradon Lumívoro)
+## Animal 2 (Téradon Lumívoro)
 
 el segundo animal diseñado fue un cuadrupedo similar a un buey, el cual esta compuesto de una piel rocosa y lleva cristales a su espalda, este factor inspiraria en gran medida el resto de fauna y flora, pues sera un factor protagonista en el planeta 
 
@@ -106,3 +106,26 @@ el segundo animal diseñado fue un cuadrupedo similar a un buey, el cual esta co
 ### Textura 
 
 ![alt text](image-9.png)
+
+## Planta 1 (Flor Etérea)
+
+tras terminar la fauna empezamos a realizar la flora, con ya una base estetica en mente mucho mas establecida, el primer diseño implementa nuevamente los cristales, se asemeja a un girasol gigante
+
+### Modelo
+
+![alt text](image-10.png)
+
+### Textura
+
+![alt text](image-11.png)
+
+## Planta 2 (Vorácea Umbralis)
+
+de un aspecto mas agresivo, insipiramos en la clasica planta carnivora, los cristales se ven presentes en sus dientes y puas mientras que su cuerpo es completamente una especia de madera corruputa
+
+### Modelo
+![alt text](image-12.png)
+
+### Textura
+
+![alt text](image-13.png)
