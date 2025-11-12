@@ -66,3 +66,43 @@ Titulos:
   - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos
 # Interfaz
 https://www.figma.com/design/kw8m9XeAUSw5EbSOKcvJbr/Interfaz?node-id=0-1&t=QKsRXjjsvZwEyKmX-1
+
+# Desarrollo
+
+## Planeta
+
+tomando las referencias mas cercanas a nuestro planteamento inicial, realizaremos un planeta segmentado en distintas islas con un nucleo expuesto
+
+### Modelo
+![alt text](image-5.png)
+
+### Textura
+
+![alt text](image-6.png)
+
+## Fauna y Flora
+
+quisimos que en el estilo visual, por su nucleo, predominen tanto en su flora como fauna los colores morado/lila
+
+### Animal 1 (Rokh Glider)
+
+el primer animal diseñado fue una mantaraya a la cual decidimos darle caracteristicas similares a las medusas para que concordara de mejor forma con el nucleo y fuera mas actrtiva a la vista 
+
+### Modelo 
+![alt text](image-7.png)
+
+### Textura
+
+![alt text](prueba-1.png)
+
+### Animal 2 (Téradon Lumívoro)
+
+el segundo animal diseñado fue un cuadrupedo similar a un buey, el cual esta compuesto de una piel rocosa y lleva cristales a su espalda, este factor inspiraria en gran medida el resto de fauna y flora, pues sera un factor protagonista en el planeta 
+
+### Modelo
+
+![alt text](image-8.png)
+
+### Textura 
+
+![alt text](image-9.png)
