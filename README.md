@@ -129,3 +129,6 @@ de un aspecto mas agresivo, insipiramos en la clasica planta carnivora, los cris
 ### Textura
 
 ![alt text](image-13.png)
+
+## Profundizacion de fauna y flora
+https://docs.google.com/document/d/1_PpEMnhhUJQF7fpa6FrIxmNcnVOEH4Dsk4UbM384bpk/edit?tab=t.0
