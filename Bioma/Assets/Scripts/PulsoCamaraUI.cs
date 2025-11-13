@@ -8,6 +8,7 @@ public class PulsoCamaraUI : MonoBehaviour
     public Button botonExtra;       
     public Button botonExtra1;
     public Button botonExtra2;
+    public Button botonPlaneta;
     public float duracionPulso = 0.01f;
 
     public void ActivarPulso()
@@ -39,5 +40,6 @@ public class PulsoCamaraUI : MonoBehaviour
         botonExtra.gameObject.SetActive(true);
         botonExtra1.gameObject.SetActive(true);
         botonExtra2.gameObject.SetActive(true);
+        botonPlaneta.gameObject.SetActive(true);
     }
 }
