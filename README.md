@@ -64,6 +64,8 @@ Titulos:
 
   ### Escaner 
   - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos
+  <img width="704" height="48" alt="image" src="https://github.com/user-attachments/assets/2be543fb-b536-419c-b6a5-18760375d74e" />
+
 # Interfaz
 https://www.figma.com/design/kw8m9XeAUSw5EbSOKcvJbr/Interfaz?node-id=0-1&t=QKsRXjjsvZwEyKmX-1
 
