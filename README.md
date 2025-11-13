@@ -155,3 +155,18 @@ de un aspecto mas agresivo, insipiramos en la clasica planta carnivora, los cris
 
 ## Profundizacion de fauna y flora
 https://docs.google.com/document/d/1_PpEMnhhUJQF7fpa6FrIxmNcnVOEH4Dsk4UbM384bpk/edit?tab=t.0
+
+### Tablas/Gaficas 
+
+## Temperatura  
+<img width="842" height="514" alt="image" src="https://github.com/user-attachments/assets/58cae13f-4973-4b90-99bd-85e8ff08447a" />
+
+## Radiacion solar
+
+<img width="1345" height="813" alt="image" src="https://github.com/user-attachments/assets/4a4b55c1-05a8-4912-8108-6e635325d658" />
+
+## Nucleo
+
+<img width="590" height="349" alt="image" src="https://github.com/user-attachments/assets/b2e4a0ff-5f69-4895-bf57-39d6d8f1d550" />
+
+
