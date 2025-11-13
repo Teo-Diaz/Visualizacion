@@ -67,6 +67,27 @@ Titulos:
 # Interfaz
 https://www.figma.com/design/kw8m9XeAUSw5EbSOKcvJbr/Interfaz?node-id=0-1&t=QKsRXjjsvZwEyKmX-1
 
+### Tipografías 
+
+Titulo 
+Audiowide - Más decorativa, con curvas y un estilo tecnológico.
+
+<img width="645" height="733" alt="image" src="https://github.com/user-attachments/assets/f30f173d-26bc-4725-b0c9-61fea3f4a0e7" />
+
+
+<img width="1249" height="281" alt="image" src="https://github.com/user-attachments/assets/cc2dea21-e72b-4028-8b4d-91d0ffe176b4" />
+
+Contenido 
+
+Exo 2- Simple, pero manteniendo ese aire tecnológico.
+
+
+<img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/5152a2be-cdc3-4b2a-a400-0411fdb796e2" />
+
+
+<img width="878" height="759" alt="image" src="https://github.com/user-attachments/assets/c43ac599-fb05-4d8e-8872-f8c4e9d27f95" />
+
+
 # Desarrollo
 
 # Planeta
