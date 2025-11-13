@@ -3,7 +3,27 @@ guid: 067cf671ee8b48c4293a215e6e50e9cf
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anillos
+    second: {fileID: 2100000, guid: 9bcc78140f8f4d040bb68986e7254a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasto
+    second: {fileID: 2100000, guid: 1030ed83b01313e4c80d0ed067e7c491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aGUJERO
+    second: {fileID: 2100000, guid: 22974e1e3594777469a2ac2464adfa09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roca
+    second: {fileID: 2100000, guid: 1cda0bee50bdc18448c36cce2f3a7c06, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
