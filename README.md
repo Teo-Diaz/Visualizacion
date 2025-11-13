@@ -60,14 +60,22 @@ Titulos:
 
   ## Colores
   ### Planeta
-  - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial  
+  - buscamos que el planeta tenga colores verdes vivos, cercanos a los de la tierra, pero con una iluminacion entre los morados y azules para dar un toque mas mistico y diferencial
+    
+<img width="1067" height="656" alt="image" src="https://github.com/user-attachments/assets/fc38e7d3-3aca-432e-b73d-71b54aec29f6" />
 
   ### Escaner 
   - Buscamos que el escaner tenga un color suave no muy invasivo como un azul claro, y que los puntos interactivos tengan colores contrastantes como un amarillo chillon y un rojo vivo para marcar claramente los puntos. estos puntos con figuras basicas como trianulos
-  <img width="704" height="48" alt="image" src="https://github.com/user-attachments/assets/2be543fb-b536-419c-b6a5-18760375d74e" />
+  - 
+<img width="1066" height="655" alt="image" src="https://github.com/user-attachments/assets/74049976-58ed-466e-9385-cdcfb3cbf9d2" />
 
 # Interfaz
 https://www.figma.com/design/kw8m9XeAUSw5EbSOKcvJbr/Interfaz?node-id=0-1&t=QKsRXjjsvZwEyKmX-1
+
+### Botones
+
+<img width="1258" height="891" alt="image" src="https://github.com/user-attachments/assets/b5029138-2958-459e-8b1f-80c39b39850f" />
+
 
 ### Tipografías 
 
