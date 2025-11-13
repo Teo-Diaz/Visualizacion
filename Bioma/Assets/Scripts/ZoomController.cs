@@ -1,49 +1,58 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 public class ZoomController : MonoBehaviour
 {
-    public Transform zonaObjetivo;
-    public float velocidadZoom = 2f;
-    public float distanciaZoom = 5f;
+    [Header("CÃ¡maras")]
+    public Camera camPrincipal;
+    public Camera camObjetivo1;
+    public Camera camObjetivo2;
+    public Camera camObjetivo3;
 
-    private bool hacerZoom = false;
-    private bool regresarZoom = false;
+    [Header("Botones UI")]
+    public GameObject botonPrincipal;
+    public GameObject botonObjetivo1;
+    public GameObject botonObjetivo2;
+    public GameObject botonObjetivo3;
 
-    private Vector3 posicionInicial;
-    private Quaternion rotacionInicial;
-
-    void Start()
+    public void ActivarCamPrincipal()
     {
-        // Guardamos la posición y rotación inicial de la cámara
-        posicionInicial = Camera.main.transform.position;
-        rotacionInicial = Camera.main.transform.rotation;
+        ActivarCamara(camPrincipal);
+        MostrarBoton(botonPrincipal, true); // Siempre visible
+        // No se reactiva ningÃºn botÃ³n oculto
     }
 
-    void Update()
+    public void ActivarCamObjetivo1()
     {
-        if (hacerZoom && zonaObjetivo != null)
-        {
-            Vector3 destino = zonaObjetivo.position - zonaObjetivo.forward * distanciaZoom;
-            Camera.main.transform.position = Vector3.Lerp(Camera.main.transform.position, destino, Time.deltaTime * velocidadZoom);
-            Camera.main.transform.rotation = Quaternion.Lerp(Camera.main.transform.rotation, Quaternion.LookRotation(zonaObjetivo.position - Camera.main.transform.position), Time.deltaTime * velocidadZoom);
-        }
-
-        if (regresarZoom)
-        {
-            Camera.main.transform.position = Vector3.Lerp(Camera.main.transform.position, posicionInicial, Time.deltaTime * velocidadZoom);
-            Camera.main.transform.rotation = Quaternion.Lerp(Camera.main.transform.rotation, rotacionInicial, Time.deltaTime * velocidadZoom);
-        }
+        ActivarCamara(camObjetivo1);
+        MostrarBoton(botonPrincipal, true);
+        MostrarBoton(botonObjetivo1, false);
     }
 
-    public void ZoomToTarget()
+    public void ActivarCamObjetivo2()
     {
-        hacerZoom = true;
-        regresarZoom = false;
+        ActivarCamara(camObjetivo2);
+        MostrarBoton(botonPrincipal, true);
+        MostrarBoton(botonObjetivo2, false);
     }
 
-    public void RegresarZoom()
+    public void ActivarCamObjetivo3()
     {
-        hacerZoom = false;
-        regresarZoom = true;
+        ActivarCamara(camObjetivo3);
+        MostrarBoton(botonPrincipal, true);
+        MostrarBoton(botonObjetivo3, false);
+    }
+
+    private void ActivarCamara(Camera camActiva)
+    {
+        if (camPrincipal != null) camPrincipal.enabled = (camActiva == camPrincipal);
+        if (camObjetivo1 != null) camObjetivo1.enabled = (camActiva == camObjetivo1);
+        if (camObjetivo2 != null) camObjetivo2.enabled = (camActiva == camObjetivo2);
+        if (camObjetivo3 != null) camObjetivo3.enabled = (camActiva == camObjetivo3);
+    }
+
+    private void MostrarBoton(GameObject boton, bool estado)
+    {
+        if (boton != null)
+            boton.SetActive(estado);
     }
 }
