@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9563bc1bea9c9b14fa356c59daeb8666, type: 3}
+  m_Name: MainInfoBank
+  m_EditorClassIdentifier: 
+  infoList:
+  - _key: lumi
+    _image: {fileID: 0}
+    _videoName: 
+    _title: "T\xE9radon Lum\xEDvoro"
+    _description: "El T\xE9radon lum\xEDvoro es un cuadr\xFApedo mineral-org\xE1nico
+      que habita las islas flotantes del planeta. Su piel rocosa conduce energ\xEDa
+      del n\xFAcleo an\xF3malo, permiti\xE9ndole alimentarse de minerales lum\xEDnicos.
+      Su peso estabiliza el terreno y contribuye al equilibrio gravitacional del
+      entorno."
+  - _key: rokh
+    _image: {fileID: 0}
+    _videoName: 
+    _title: Rokh Glider
+    _description: "El Rokh glider es una criatura flotante de cuerpo aerodin\xE1mico
+      y membranas luminosas. Se impulsa con corrientes de aire ionizado y se nutre
+      de microcristales suspendidos, transformando energ\xEDa ambiental en movimiento
+      y luz."
+  - _key: eterea
+    _image: {fileID: 0}
+    _videoName: 
+    _title: "Flor de Et\xE9rea"
+    _description: "Planta luminosa que crece cerca del n\xFAcleo, absorbe su energ\xEDa
+      morada y azul para mantenerse viva en las islas flotantes. Su flor irradia
+      luz y libera una neblina que nutre la vida cercana."
+  - _key: umbralis
+    _image: {fileID: 0}
+    _videoName: 
+    _title: "Vor\xE1cea Umbralis"
+    _description: "Planta carn\xEDvora de tres cabezas que atrae presas con su brillo
+      p\xFArpura. Se alimenta de la energ\xEDa vital de sus v\xEDctimas, lo que le
+      permite sobrevivir sin luz ni suelo."
+  - _key: core
+    _image: {fileID: 0}
+    _videoName: 
+    _title: Nucleo
+    _description: "El n\xFAcleo genera una fuerza gravitacional inversa debido a
+      minerales superconductores y materia ex\xF3tica. Esta energ\xEDa mantiene fragmentos
+      de la corteza suspendidos en el aire, formando un cintur\xF3n de islas flotantes
+      iluminadas por la radiaci\xF3n del n\xFAcleo."

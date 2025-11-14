@@ -13,12 +13,31 @@ public class UIManager : MonoBehaviour
         targetCanvas.blocksRaycasts = targetState;
     }
 
-    public static void ToggleCanvas(CanvasGroup targetCanvas, bool activate, bool interactable, bool blockRycasts = true)
+    public static void ToggleCanvas(CanvasGroup targetCanvas, bool activate, bool interactable = true, bool blockRycasts = true)
     {
         if (!targetCanvas) return;
 
         targetCanvas.alpha = activate ? 1 : 0;
         targetCanvas.interactable = activate && interactable;
         targetCanvas.blocksRaycasts = activate && blockRycasts;
+    }
+
+    public static void TweenCanvas(CanvasGroup targetCanvas, bool activate, float duration)
+    {
+        duration = Mathf.Abs(duration);
+
+        if(!activate)
+        {
+            targetCanvas.blocksRaycasts = false;
+            targetCanvas.interactable = false;
+        }
+
+        LTSeq sequence = LeanTween.sequence(); 
+        sequence.append(targetCanvas.LeanAlpha(activate ? 1 : 0, duration));
+        sequence.append(() =>
+        {
+            targetCanvas.blocksRaycasts = activate;
+            targetCanvas.interactable = activate;
+        });
     }
 }

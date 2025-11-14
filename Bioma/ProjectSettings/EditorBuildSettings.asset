@@ -6,11 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Inicio.unity
-    guid: bb1e4b5effdf4a6439215f204a8294b8
+    path: Assets/Scenes/CoreGameplay/MasterScene.unity
+    guid: 62a5e6132f8100645a7701ae1ebf8e5b
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/CoreGameplay/Stages/Menu.unity
+    guid: b65978ff2f9eecb49920d01da38bbd4e
+  - enabled: 1
+    path: Assets/Scenes/CoreGameplay/Stages/Level1.unity
+    guid: 099d40c318d24234eb1cfcaf847b9679
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 521cd349283a38543922791a585a00b0, type: 3}
   m_UseUCBPForAssetBundles: 0
