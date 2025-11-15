@@ -7,6 +7,7 @@ public struct InfoDataHelper
     [Header("ID")]
     [SerializeField] private string _key;
     [Header("References")]
+    [SerializeField] private GameObject _model;
     [SerializeField] private Sprite _image;
     [SerializeField] private string _videoName;
     [Header("Data")]
@@ -14,6 +15,7 @@ public struct InfoDataHelper
     [SerializeField, TextArea] private string _description;
 
     public string Key => _key;
+    public GameObject Model => _model;
     public Sprite Image => _image;
     public string VideoName => _videoName;
     public string Title => _title;
@@ -22,18 +24,21 @@ public struct InfoDataHelper
 
 public struct InfoData
 {
+    private GameObject _model;
     private Sprite _image;
     private string _videoName;
     private string _title;
     private string _description;
 
+    public GameObject Model => _model;
     public Sprite Image => _image;
     public string VideoName => _videoName;
     public string Title => _title;
     public string Description => _description;
 
-    public InfoData(Sprite image, string videoName, string title, string description)
+    public InfoData(GameObject model, Sprite image, string videoName, string title, string description)
     {
+        _model = model;
         _image = image;
         _videoName = videoName;
         _title = title; 
@@ -70,7 +75,7 @@ public class InfoBank : ScriptableObject
 
             _infoDatas.Add(
                 helper.Key,
-                new InfoData(helper.Image, helper.VideoName, helper.Title, helper.Description)
+                new InfoData(helper.Model, helper.Image, helper.VideoName, helper.Title, helper.Description)
             );
         }
     }

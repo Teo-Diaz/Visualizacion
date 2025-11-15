@@ -13,6 +13,8 @@ public class HUDScreenModel : BaseModel
 
     public override void Init()
     {
+        base.Init();
+
         returnButton.onClick.AddListener(Return);
         hintButton.onClick.AddListener(ToggleVisibility);
     }
@@ -51,6 +53,8 @@ public class HUDScreenModel : BaseModel
 
     public override void Release()
     {
+        base.Release();
+
         returnButton.onClick.RemoveAllListeners();
         hintButton.onClick.RemoveAllListeners();
     }

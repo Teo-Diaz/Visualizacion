@@ -1,5 +1,6 @@
 using Unity.Cinemachine;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class CameraController : MonoBehaviour
 {
@@ -7,12 +8,24 @@ public class CameraController : MonoBehaviour
     [SerializeField] private InputProvider inputProvider;
     [SerializeField] private CinemachineInputAxisController cinemachineInputController;
 
+    bool _pointerOnUI;
+
     private void Awake()
     {
         inputProvider.OnFirePerformed += EnableControl;
         inputProvider.OnFireCanceled += DisableControl;
     }
 
-    private void EnableControl() => cinemachineInputController.enabled = true;
+    private void Update()
+    {
+        _pointerOnUI = EventSystem.current.IsPointerOverGameObject();
+    }
+
+    private void EnableControl()
+    {
+        if (!_pointerOnUI) 
+            cinemachineInputController.enabled = true; 
+    }
+
     private void DisableControl() => cinemachineInputController.enabled = false;
 }

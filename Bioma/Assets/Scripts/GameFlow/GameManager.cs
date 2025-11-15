@@ -53,6 +53,8 @@ public class GameManager : MonoBehaviour
 
         ChangeState(GameState.Running);
         ChangePhase();
+
+        AudioManager.PlayClip(AudioManager.GetClipData("Theme"));
     }
 
     private void OnDestroy()

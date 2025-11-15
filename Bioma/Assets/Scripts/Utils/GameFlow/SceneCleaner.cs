@@ -16,6 +16,8 @@ public static class SceneCleaner
 
             foreach (var cam in cams)
             {
+                if(!cam.CompareTag("MainCamera")) continue;
+
                 if(cam != GameManager.MainCamera)
                     Object.Destroy(cam.gameObject);
             }

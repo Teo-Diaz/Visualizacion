@@ -4,14 +4,27 @@ using UnityEngine.UI;
 public class SettingsScreenModal : BaseModel
 {
     [Header("REFERENCES")]
+    [Header("Panel Control")]
     [SerializeField] private Button settingsButton;
     [SerializeField] private RectTransform settingsPanel;
+    [Header("Volume")]
+    [SerializeField] private Slider masterVolumeSlider;
+    [SerializeField] private Slider musicVolumeSlider;
+    [SerializeField] private Slider sfxVolumeSlider;
 
     private bool _visible; 
 
     public override void Init()
     {
         settingsButton.onClick.AddListener(ToggleVisibility);
+
+        masterVolumeSlider.value = 0.5f;
+        musicVolumeSlider.value = 0.1f;
+        sfxVolumeSlider.value = 0.5f;
+
+        masterVolumeSlider.onValueChanged.AddListener(value => OnChangeVolume("MasterVolume", value));
+        musicVolumeSlider.onValueChanged.AddListener(value => OnChangeVolume("MusicVolume", value));
+        sfxVolumeSlider.onValueChanged.AddListener(value => OnChangeVolume("SFXVolume", value));
     }
 
     public override void Show()
@@ -59,5 +72,10 @@ public class SettingsScreenModal : BaseModel
     {
         if (_visible) Hide();
         else Show();
+    }
+
+    private void OnChangeVolume(string volumeChannel, float value)
+    {
+        AudioManager.ChangeVolume(volumeChannel, value);
     }
 }

@@ -36,6 +36,8 @@ public class MenuScreenModel : BaseModel
 
         yield return new WaitForSeconds(0.5f);
 
+        AudioManager.PlayClipOneShot(AudioManager.GetClipData("Teleport"));
+
         LeanTween.value(gameObject, 60f, 179f, 2f)
             .setEase(LeanTweenType.easeOutCubic)
             .setOnUpdate((float fov) =>

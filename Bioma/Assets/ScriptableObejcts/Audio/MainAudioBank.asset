@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7bbdef44f8cf8d46a6d73e8ff93b6af, type: 3}
+  m_Name: MainAudioBank
+  m_EditorClassIdentifier: 
+  clips:
+  - code: Theme
+    type: 0
+    clip: {fileID: 8300000, guid: 8797824d22ff19f4f83fa1622d0e19b7, type: 3}
+  - code: Click
+    type: 1
+    clip: {fileID: 8300000, guid: 08f3e6e54294d64478e908513d44941b, type: 3}
+  - code: Hover
+    type: 1
+    clip: {fileID: 8300000, guid: 498c29b34a85dea468cde9b127f1ea3c, type: 3}
+  - code: Teleport
+    type: 1
+    clip: {fileID: 8300000, guid: a2122c568b2cf8a43a79d6b7aad53aab, type: 3}
+  - code: Scan
+    type: 1
+    clip: {fileID: 8300000, guid: f0c36c6ae016c9b46b6835d09c7b09aa, type: 3}

@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   infoList:
   - _key: lumi
-    _image: {fileID: 0}
+    _model: {fileID: 4356800169880903975, guid: 4cf9a5834f14db548a1143636d422f8f, type: 3}
+    _image: {fileID: 21300000, guid: 46949c4965b655e4eb45d6699c8e5a64, type: 3}
     _videoName: 
     _title: "T\xE9radon Lum\xEDvoro"
     _description: "El T\xE9radon lum\xEDvoro es un cuadr\xFApedo mineral-org\xE1nico
@@ -23,7 +24,8 @@ MonoBehaviour:
       Su peso estabiliza el terreno y contribuye al equilibrio gravitacional del
       entorno."
   - _key: rokh
-    _image: {fileID: 0}
+    _model: {fileID: 4675328237764390874, guid: f44e9f4fd778aeb48b910222dbc7088f, type: 3}
+    _image: {fileID: 21300000, guid: 5b7527e2659707648be8300c1a007eb5, type: 3}
     _videoName: 
     _title: Rokh Glider
     _description: "El Rokh glider es una criatura flotante de cuerpo aerodin\xE1mico
@@ -31,24 +33,39 @@ MonoBehaviour:
       de microcristales suspendidos, transformando energ\xEDa ambiental en movimiento
       y luz."
   - _key: eterea
+    _model: {fileID: 7899402079179488435, guid: d63081d8125e6794fb34deb35d4fbe6d, type: 3}
     _image: {fileID: 0}
-    _videoName: 
+    _videoName: FlowerVideo
     _title: "Flor de Et\xE9rea"
     _description: "Planta luminosa que crece cerca del n\xFAcleo, absorbe su energ\xEDa
       morada y azul para mantenerse viva en las islas flotantes. Su flor irradia
       luz y libera una neblina que nutre la vida cercana."
   - _key: umbralis
+    _model: {fileID: 1843196269720354005, guid: 8943e229f6f0d2e4aa0348378c341f86, type: 3}
     _image: {fileID: 0}
-    _videoName: 
+    _videoName: PlantVideo
     _title: "Vor\xE1cea Umbralis"
     _description: "Planta carn\xEDvora de tres cabezas que atrae presas con su brillo
       p\xFArpura. Se alimenta de la energ\xEDa vital de sus v\xEDctimas, lo que le
       permite sobrevivir sin luz ni suelo."
   - _key: core
-    _image: {fileID: 0}
+    _model: {fileID: 0}
+    _image: {fileID: 21300000, guid: c3e9fcb433517db4abe7a222c599cb0f, type: 3}
     _videoName: 
     _title: Nucleo
     _description: "El n\xFAcleo genera una fuerza gravitacional inversa debido a
       minerales superconductores y materia ex\xF3tica. Esta energ\xEDa mantiene fragmentos
       de la corteza suspendidos en el aire, formando un cintur\xF3n de islas flotantes
       iluminadas por la radiaci\xF3n del n\xFAcleo."
+  - _key: temperature
+    _model: {fileID: 0}
+    _image: {fileID: 21300000, guid: 171e432fbabe37e478c99ff3dace3cc5, type: 3}
+    _videoName: 
+    _title: 
+    _description: 
+  - _key: radiation
+    _model: {fileID: 0}
+    _image: {fileID: 21300000, guid: e6d9df49361a31d4392c6a6b68913481, type: 3}
+    _videoName: 
+    _title: 
+    _description: 

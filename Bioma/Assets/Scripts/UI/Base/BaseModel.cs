@@ -17,7 +17,7 @@ public abstract class BaseModel : MonoBehaviour
         Release();
     }
 
-    public abstract void Init();
+    public virtual void Init() { }
 
     public virtual void Show()
     {
@@ -28,5 +28,5 @@ public abstract class BaseModel : MonoBehaviour
         UIManager.ToggleCanvas(MainCanvasGroup, false);
     }
 
-    public abstract void Release();
+    public virtual void Release() { }
 }
