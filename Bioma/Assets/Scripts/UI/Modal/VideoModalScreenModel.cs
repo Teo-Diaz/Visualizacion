@@ -16,7 +16,7 @@ public class VideoModalScreenModel : BaseModalModel
 
 #else
 
-        string videoPath = $"https://teo-diaz.github.io/Visualizacion/videos/{info.VideoName}.mp4";
+        string videoPath = $"https://teo-diaz.github.io/Visualizacion/StreamingAssets/{info.VideoName}.mp4";
 
 #endif
 
