@@ -47,10 +47,6 @@ public class MenuScreenModel : BaseModel
 
         yield return new WaitForSeconds(0.5f);
 
-        UIManager.TweenCanvas(teleportBurst, true, 1.5f);
-
-        yield return new WaitForSeconds(1.5f);
-
-        GameManager.NextPhase();
+        UIManager.TweenCanvas(teleportBurst, true, 1.5f, GameManager.NextPhase);
     }
 }

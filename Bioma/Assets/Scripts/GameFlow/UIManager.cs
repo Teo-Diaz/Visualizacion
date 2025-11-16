@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class UIManager : MonoBehaviour
@@ -22,7 +23,7 @@ public class UIManager : MonoBehaviour
         targetCanvas.blocksRaycasts = activate && blockRycasts;
     }
 
-    public static void TweenCanvas(CanvasGroup targetCanvas, bool activate, float duration)
+    public static void TweenCanvas(CanvasGroup targetCanvas, bool activate, float duration, Action OnComplete = null)
     {
         duration = Mathf.Abs(duration);
 
@@ -39,5 +40,6 @@ public class UIManager : MonoBehaviour
             targetCanvas.blocksRaycasts = activate;
             targetCanvas.interactable = activate;
         });
+        sequence.append(() => OnComplete?.Invoke());
     }
 }

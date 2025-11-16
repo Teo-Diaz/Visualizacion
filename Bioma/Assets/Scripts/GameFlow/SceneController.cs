@@ -47,7 +47,9 @@ public class SceneController : MonoBehaviour
 
         GameManager.LoadingModel?.RequestLoad();
 
-        await Task.Delay((int)(minimumDelay * 1000));
+        /*int delay = (int)(minimumDelay * 1000);
+
+        await Task.Delay(delay);*/
 
         if (_currentScene.IsValid())
             await UnloadScene(_currentScene);

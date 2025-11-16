@@ -21,6 +21,12 @@ public class CameraController : MonoBehaviour
         _pointerOnUI = EventSystem.current.IsPointerOverGameObject();
     }
 
+    private void OnDestroy()
+    {
+        inputProvider.OnFirePerformed -= EnableControl;
+        inputProvider.OnFireCanceled -= DisableControl;
+    }
+
     private void EnableControl()
     {
         if (!_pointerOnUI) 
